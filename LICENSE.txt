@@ -1,0 +1,15 @@
+LICENCE VALIDADORVACUNACION
+
+[Copyright (c) 2024 ValidadorVacunacion]
+
+Todos los derechos reservados.
+
+Se otorga permiso a cualquier persona que obtenga una copia de este software y de la documentación asociada para utilizar el software, sujeto a las siguientes condiciones:
+
+1. No se permite la modificación, adaptación o alteración de este software en ninguna forma.
+
+2. Este software no puede ser utilizado con fines comerciales, excepto con el permiso explícito por escrito del titular de los derechos de autor.
+
+3. Se prohíbe estrictamente la redistribución de este software, ya sea en su forma original o modificada, a menos que se obtenga permiso previo por escrito del titular de los derechos de autor.
+
+ESTE SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, APTITUD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL AUTOR O LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRA MANERA, DERIVADA DE, FUERA O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
